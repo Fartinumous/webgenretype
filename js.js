@@ -22,3 +22,4 @@ ScrollReveal({
 ScrollReveal().reveal('.main-title', {delay: 200, origin: 'left'});
 ScrollReveal().reveal('.secImg', {delay: 300});
 ScrollReveal().reveal('.text-box', {delay: 400, origin: 'right'});
+
